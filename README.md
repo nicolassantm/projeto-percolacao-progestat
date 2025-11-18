@@ -5,3 +5,5 @@
 - Discentes:
   - Andressa Nascimento Santos - RA: 829442
   - Nicolas Magalhães Santana e Silva - RA: 830225
+---
+## **Como rodas este projeto localmente**
