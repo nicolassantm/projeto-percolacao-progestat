@@ -18,6 +18,3 @@ As principais questões são:
 -  Como essa probabilidade varia com o tamanho da grade (N)?
 -  E qual a distribuição de tamanho do maior aglomerado (cluster) de s ́ıtios conectados, especialmente no limiar crítico?
 --
-## **Como rodar este projeto localmente**
-1. Clone o repositório
-2. 
