@@ -16,4 +16,8 @@ esse ponto crítico.
 As principais questões são: 
 -  Qual o valor de p a partir do qual um ”caminho” de ponta a ponta na grade se torna provável?
 -  Como essa probabilidade varia com o tamanho da grade (N)?
--  E qual a distribuição de tamanho do maior aglomerado (cluster) de s ́ıtios conectados, especialmente no limiar crítico?
+-  E qual a distribuição de tamanho do maior aglomerado (cluster) de sítios conectados, especialmente no limiar crítico?
+
+---
+
+**Notebook principal do projeto: `Percolacao_Por_Sitios_Em_Rede_Quadrada.ipynb`**
